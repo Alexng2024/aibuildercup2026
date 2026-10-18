@@ -135,9 +135,32 @@ WhatsApp notifications
 Dashboard analytics
 Family member alerting
 AI-assisted intervention
-Team
 
-AI Builder Cup 2026
+
+## Additional Project Components
+
+### GoEyeText (Android Application)
+
+Google Drive Download:
+https://drive.google.com/file/d/1qwIga8y4ptt-F9IjSVeshWdXqxmoqnGL/view?usp=sharing
+
+Description:
+An AI engine that monitors and analyzes SMS and WhatsApp messages to detect suspicious patterns, phishing (smishing) attempts, and fraudulent communication.
+
+
+### GoEyeLink (Fluuter Application)
+
+Google Drive Download:
+https://drive.google.com/file/d/11swM4rSdUBDJeAyj-5SLa1NNF2ivCUR4/view?usp=sharing
+
+Description:
+Actively scans and intercepts malicious URLs and fraudulent QR codes before a customer clicks or scans them, preventing credential theft and unauthorized transactions.
+
+
+AI Builder CUP 2026
+
+
+
 
 
 
